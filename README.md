@@ -8,8 +8,10 @@ I'm currently working on projects in:
  - SQL
  - Tableau
  - C
+ 
 I have created repositories for each and you'll find folders with my personal projects and also the projects that i did through the guidance and walkthrough videos. You can also checkout the folders based on the topics I was working on!
-I'm currently exploring and trying out the projects that come my way on tpoics that interest me!
+
+I'm currently exploring and trying out the projects that come my way on topics that interest me!
 
 
 Contact me:
