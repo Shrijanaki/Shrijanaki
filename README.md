@@ -14,5 +14,3 @@ SentenceTransformers · Pytest · Jira · Agile
 
 📧 shrijanakikumar@gmail.com
 💼 linkedin.com/in/shrijanakikumar
-
-https://www.linkedin.com/in/shrijanakikumar/
